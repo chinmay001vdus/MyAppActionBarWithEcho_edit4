@@ -1,0 +1,84 @@
+TASK com.example.myappactionbar id=3080
+  ACTIVITY com.example.myappactionbar/.MainActivity 3916f043 pid=25197
+    Local FragmentActivity 16c19ec8 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    Active Fragments in 2be9f7e2:
+      #0: FragmentTab2{36f4b630 #0 id=0x7f0d003f}
+        mFragmentId=#7f0d003f mContainerId=#7f0d003f mTag=null
+        mState=5 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=true mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{2be9f7e2 in MainActivity{16c19ec8}}
+        mActivity=com.example.myappactionbar.MainActivity@16c19ec8
+        mContainer=android.widget.RelativeLayout{ed462a9 V.E..... ........ 0,0-768,926 #7f0d003f app:id/container}
+        mView=android.support.v4.app.NoSaveStateFrameLayout{3e33b02e V.E..... ........ 0,0-768,926}
+        mInnerView=android.support.v4.app.NoSaveStateFrameLayout{3e33b02e V.E..... ........ 0,0-768,926}
+        Child FragmentManager{2d4437cf in FragmentTab2{36f4b630}}:
+          FragmentManager misc state:
+            mActivity=com.example.myappactionbar.MainActivity@16c19ec8
+            mContainer=android.support.v4.app.Fragment$1@827055c
+            mParent=FragmentTab2{36f4b630 #0 id=0x7f0d003f}
+            mCurState=5 mStateSaved=false mDestroyed=false
+    Added Fragments:
+      #0: FragmentTab2{36f4b630 #0 id=0x7f0d003f}
+    FragmentManager misc state:
+      mActivity=com.example.myappactionbar.MainActivity@16c19ec8
+      mContainer=android.support.v4.app.FragmentActivity$2@1d678065
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{14ea13a V.E..... ... 0,0-768,1280}
+        android.widget.LinearLayout{307681eb V.E..... ... 0,0-768,1184}
+          android.view.ViewStub{24cd1b48 G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{b54bde1 V.E..... ... 0,50-768,1184}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{21f59706 V.E..... ... 0,0-768,1134 #7f0d002f app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{1e3951c7 V.E..... ... 0,208-768,1134 #1020002 android:id/content}
+                android.widget.RelativeLayout{ed462a9 V.E..... ... 0,0-768,926 #7f0d003f app:id/container}
+                  android.support.v4.app.NoSaveStateFrameLayout{3e33b02e V.E..... ... 0,0-768,926}
+                    android.widget.ScrollView{1c3ca3f4 VFED.V.. ... 0,0-768,926}
+                      android.widget.RelativeLayout{27e571d V.E..... ... 32,32-736,816 #7f0d0059 app:id/relativeLayout0}
+                        android.widget.TextView{bc41d92 V.ED.... ... 162,0-542,59 #7f0d005a app:id/textView}
+                        android.widget.RelativeLayout{346f4363 V.E..... ... 0,100-704,164 #7f0d005b app:id/relativeLayout1}
+                          android.widget.TextView{3b7a0b60 V.ED.... ... 0,0-71,54 #7f0d0044 app:id/textView1}
+                          android.widget.SeekBar{2eae4819 VFED.... ... 90,0-704,64 #7f0d0047 app:id/seekBar1}
+                        android.widget.RelativeLayout{168280de V.E..... ... 0,200-704,264 #7f0d0045 app:id/relativeLayout2}
+                          android.widget.TextView{2288b2bf V.ED.... ... 0,0-71,54 #7f0d005c app:id/textView2}
+                          android.widget.SeekBar{19647d8c VFED.... ... 90,0-704,64 #7f0d0058 app:id/seekBar2}
+                        android.widget.RelativeLayout{14524cd5 V.E..... ... 0,300-704,364 #7f0d005d app:id/relativeLayout3}
+                          android.widget.TextView{3c31ccea V.ED.... ... 0,0-71,54 #7f0d0046 app:id/textView3}
+                          android.widget.SeekBar{349fbbdb VFED.... ... 90,0-704,64 #7f0d0055 app:id/seekBar3}
+                        android.widget.RelativeLayout{39a1e678 V.E..... ... 0,400-704,464 #7f0d005e app:id/relativeLayout4}
+                          android.widget.TextView{16f7e151 V.ED.... ... 0,0-71,54 #7f0d0052 app:id/textView4}
+                          android.widget.SeekBar{23d7cdb6 VFED.... ... 90,0-704,64 #7f0d005f app:id/seekBar4}
+                        android.widget.TextView{14543ab7 V.ED.... ... 201,520-502,579 #7f0d0060 app:id/textView45}
+                        android.widget.RelativeLayout{324af224 V.E..... ... 0,620-704,684 #7f0d0061 app:id/relativeLayout5}
+                          android.widget.TextView{2b88418d V.ED.... ... 0,0-46,54 #7f0d0054 app:id/textView5}
+                          android.widget.SeekBar{d0b0f42 VFED.... ... 70,0-628,64 #7f0d0062 app:id/seekBar5}
+                          android.widget.TextView{3b67cb53 V.ED.... ... 658,0-704,54 #7f0d0063 app:id/textView51}
+                        android.widget.RelativeLayout{570c90 V.E..... ... 0,720-704,784 #7f0d0064 app:id/relativeLayout6}
+                          android.widget.TextView{32446989 V.ED.... ... 0,0-46,54 #7f0d0065 app:id/textView6}
+                          android.widget.SeekBar{283edd8e VFED.... ... 70,0-628,64 #7f0d0066 app:id/seekBar6}
+                          android.widget.TextView{3419c9af V.ED.... ... 658,0-704,54 #7f0d0067 app:id/textView61}
+              android.support.v7.internal.widget.ActionBarContainer{36c861bc V.ED.... ... 0,0-768,208 #7f0d0030 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{34811545 V.E..... ... 0,0-768,112 #7f0d0031 app:id/action_bar}
+                  android.widget.ImageView{27cf449a V.ED.... ... 32,21-432,91}
+                  android.support.v7.widget.ActionMenuView{34351cb V.E..... ... 496,0-768,112}
+                    android.support.v7.internal.view.menu.ActionMenuItemView{3497dda8 VFED..CL ... 0,8-96,104 #7f0d0076 app:id/action_bluetooth}
+                    android.support.v7.internal.view.menu.ActionMenuItemView{222c0c1 VFED..CL ... 96,8-192,104 #7f0d0077 app:id/action_refresh}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{15cd1066 VFED..C. ... 192,8-272,104}
+                android.support.v7.internal.widget.ActionBarContextView{18333fa7 G.E..... ... 0,0-0,0 #7f0d0032 app:id/action_context_bar}
+                android.support.v7.internal.widget.ScrollingTabContainerView{d612c54 VFED.... ... 0,112-768,208}
+                  android.support.v7.widget.LinearLayoutCompat{2ad9a7fd V.ED.... ... 0,0-768,96}
+                    android.support.v7.internal.widget.ScrollingTabContainerView$TabView{3a89ccf2 VFE...C. ... 2,0-154,96}
+                      android.support.v7.internal.widget.CompatTextView{1e4a2f43 V.ED.... ... 52,31-100,64}
+                    android.support.v7.internal.widget.ScrollingTabContainerView$TabView{10ceb9c0 VFE...C. .S. 155,0-308,96}
+                      android.support.v7.internal.widget.CompatTextView{f1dc6f9 V.ED.... .S. 50,31-103,64}
+                    android.support.v7.internal.widget.ScrollingTabContainerView$TabView{1fe3c63e VFE...C. ... 309,0-462,96}
+                      android.support.v7.internal.widget.CompatTextView{c567c9f V.ED.... ... 39,31-114,64}
+                    android.support.v7.internal.widget.ScrollingTabContainerView$TabView{1cc5b1ec VFE...C. ... 463,0-616,96}
+                      android.support.v7.internal.widget.CompatTextView{4ead9b5 V.ED.... ... 46,31-107,64}
+                    android.support.v7.internal.widget.ScrollingTabContainerView$TabView{3d52084a VFE...C. ... 617,0-770,96}
+                      android.support.v7.internal.widget.CompatTextView{db043bb V.ED.... ... 51,31-101,64}
+        android.view.View{265200d8 V.ED.... ... 0,0-768,50 #102002f android:id/statusBarBackground}
+        android.view.View{c3c5c31 V.ED.... ... 0,1184-768,1280 #1020030 android:id/navigationBarBackground}

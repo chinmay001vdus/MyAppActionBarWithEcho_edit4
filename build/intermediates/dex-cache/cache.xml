@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\pre-dexed\debug\classes-87eac82a9f4a295b28cf09c50328663c84faae61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit4\app\build\intermediates\pre-dexed\debug\classes-996d8337eae373929544882afd99cfa09308ca0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\pre-dexed\debug\classes-0f837728749404fc8457c4908d942ba9c05c3a92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit4\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-334e050240cb4d0dc9a24a2be17d6727fde9cdf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit3\app\build\intermediates\pre-dexed\debug\classes-30629b5979a883520e5812d30d7ebb56e0b09836.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit4\app\build\intermediates\pre-dexed\debug\classes-1663c407d0ab3d6902ca380ad8b541388d63f254.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-704a340b9af7bcb3c02ad95d5aa67056e7d6206d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6ae3b550c64d39bbd284e310899157825ef4c7fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit3\app\build\intermediates\pre-dexed\debug\classes-99e18b19321e8ba52387d0743d10d8f9752249de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Chinmay\StudioProjects\MyAppActionBarWithEcho_edit2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8a84dad630cd3e140229c889501401a9da62e083.jar" />
+    </item>
+
+</items>
